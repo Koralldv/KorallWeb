@@ -48,9 +48,7 @@ function Footer({ linkItems, footetItems }) {
                                 </i>{' '}
                                 by
                                 {'  '}
-                                <a href="https://wa.me/89145860291" target="_blank">
-                                    KorallWeb
-                                </a>
+                                <a href="https://wa.me/89145860291">KorallWeb</a>
                             </span>
 
                             <div className="space-30 hidden visible-xs"></div>

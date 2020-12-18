@@ -131,10 +131,6 @@ const screenshot = [gallery_1, gallery_2, gallery_3, gallery_4];
 function Home() {
     const clients = db;
 
-    function popupClick() {
-        // console.log('popup');
-    }
-
     return (
         <div>
             <Header />

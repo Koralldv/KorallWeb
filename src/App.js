@@ -1,5 +1,6 @@
 import React from 'react';
-import { Route } from 'react-router-dom';
+import { Route, Switch } from 'react-router-dom';
+import Helmet from "react-helmet"
 
 import { Nav, Footer } from './components';
 import { Home, NotFound } from './pages'; 
@@ -59,9 +60,14 @@ const footetItems = {
 function App() {
   return (
     <div>
+      <Helmet
+                title="KorallWeb"
+                />
       <Nav linkItems={linkItems} />
+      <Switch>
       <Route exact path="/" component={Home} />
       <Route exact path="*/**" component={NotFound} />
+      </Switch>
       <Footer linkItems={linkItems} footetItems={footetItems} />
     </div>
   );
