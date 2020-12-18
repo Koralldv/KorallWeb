@@ -1,0 +1,46 @@
+{
+  "clients": [
+    {
+      "icon": "https://i.pinimg.com/originals/bb/08/a0/bb08a07179b0e42fa1436d79b9f9b346.jpg",
+      "name": "Лебедев Кирилл",
+      "position": "Мафиозничий папа",
+      "info": "Lorem ipsum dolor sit amet, conseg sed do eiusmod temput laborelaborus ed sed do eiusmod tempo."
+    },
+    {
+      "icon": "https://i.pinimg.com/originals/a9/b0/7a/a9b07a71d7dcca3599a4f45af982a35d.jpg",
+      "name": "Никита Забровский",
+      "position": "Питерский барон",
+      "info": "Lorem ipsum dolor sit amet, conseg sed do eiusmod temput laborelaborus ed sed do eiusmod tempo."
+    },
+    {
+      "icon": "https://i.pinimg.com/originals/a9/b0/7a/a9b07a71d7dcca3599a4f45af982a35d.jpg",
+      "name": "Артур подгорбунтцев",
+      "position": "Инородный шпион",
+      "info": "Lorem ipsum dolor sit amet, conseg sed do eiusmod temput laborelaborus ed sed do eiusmod tempo."
+    },
+    {
+      "icon": "https://i.pinimg.com/originals/bb/08/a0/bb08a07179b0e42fa1436d79b9f9b346.jpg",
+      "name": "Лебедев Кирилл",
+      "position": "Мафиозничий папа",
+      "info": "Lorem ipsum dolor sit amet, conseg sed do eiusmod temput laborelaborus ed sed do eiusmod tempo."
+    },
+    {
+      "icon": "https://i.pinimg.com/originals/a9/b0/7a/a9b07a71d7dcca3599a4f45af982a35d.jpg",
+      "name": "Никита Забровский",
+      "position": "Питерский барон",
+      "info": "Lorem ipsum dolor sit amet, conseg sed do eiusmod temput laborelaborus ed sed do eiusmod tempo."
+    },
+    {
+      "icon": "https://i.pinimg.com/originals/a9/b0/7a/a9b07a71d7dcca3599a4f45af982a35d.jpg",
+      "name": "Артур подгорбунтцев",
+      "position": "Инородный шпион",
+      "info": "Lorem ipsum dolor sit amet, conseg sed do eiusmod temput laborelaborus ed sed do eiusmod tempo."
+    },
+    {
+      "icon": "https://i.pinimg.com/originals/59/cf/e6/59cfe6f7823dfc4ed681c4ac0d83d310.jpg",
+      "name": "Богдан Лещенко",
+      "position": "Пьяный бандит",
+      "info": "Lorem ipsum dolor sit amet, conseg sed do eiusmod temput laborelaborus ed sed do eiusmod tempo."
+    }
+  ]
+}

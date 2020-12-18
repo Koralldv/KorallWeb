@@ -1,0 +1,14 @@
+export { default as Preloader } from './Preloader';
+export { default as Nav } from './Nav';
+export { default as Header } from './Header';
+export { default as About } from './About';
+export { default as Progress } from './Progress';
+export { default as Video } from './Video';
+export { default as Features } from './Features';
+export { default as Screenshot } from './Screenshot';
+export { default as Pricing } from './Pricing';
+export { default as Clients } from './Clients';
+export { default as OurFeatures } from './OurFeatures';
+export { default as Popup } from './Popup';
+export { default as Brif } from './Brif';
+export { default as Footer } from './Footer';
